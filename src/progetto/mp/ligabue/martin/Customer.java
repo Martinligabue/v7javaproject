@@ -1,3 +1,4 @@
+package progetto.mp.ligabue.martin;
 
 public class Customer {
     //bank customer
